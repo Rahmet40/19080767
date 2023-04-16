@@ -1,0 +1,62 @@
+---
+title: "The Impact of Marital Status on Crime and what affects their brain?"
+author: 
+  - Güneş, Rahmetullah[^1]
+bibliography: ../bibliography/biblio.bib
+csl: ../csl/apa.csl
+header-includes:
+  - \usepackage{polyglossia}
+  - \setmainlanguage{english}
+  - \usepackage{booktabs}
+  - \usepackage{caption} 
+  - \captionsetup[table]{skip=10pt}
+output:
+  bookdown::pdf_document2:
+    fig_caption: yes
+    fig_height: 3
+    fig_width: 4
+    keep_tex: no
+    latex_engine: xelatex
+    number_sections: yes
+    toc: no
+geometry: margin=1in
+link-citations: yes
+urlcolor: blue
+fontsize: 12pt
+biblio-style: apalike
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FALSE)
+```
+
+<!-- ======================================================================= -->
+<!-- ============================== FOOTNOTES ============================== -->
+<!-- ======================================================================= -->
+[^1]: 19080767, [Github Repo](https://github.com/Rahmet40/19080767)
+
+
+# Introduction
+In today's world, where living conditions and technological developments change human relations and increase isolation, individuals can easily resort to harmful orientations that threaten their health and productivity. My data sources and purpose are about the type of crime and their marital status and I want to search what affects their brain and lives when they get involved in crime and their sex ratios. Before the start literature review, I want to explain some definition that helps to understand the main idea. Offence: It is an act which violates and endangers the existence of a society, or life conditions, or the main benefits of individuals or a society and is found to be damaging or dangerous by lawmakers and therefore, sanctions like penalty or security measures are applied against it. In Turkish Criminal Law No. 5237, sanctions  are defined as penalties and security measures.If convicts received into or discharged from prison committed more than one crime,  one of the crimes resulted in major punishment is taken as type of crime. Drug addiction; It can be defined as inability to discontinue the use of these substances even though a person who can adversely affect one or more functions of the body is harmed. Drug crime is not only a type of crime in itself, but can also form the basis of many types of crimes (theft, murder, traffic, harassment and rape). We have to touch another points which are marital status and their gender role to each other. The main difference between men and women is not a sex-based segregation, but a sex-based segregation resulting from a different socialization process. That is, sex biological sex is cultural. Thus, we can understand gender role and maritul status.
+
+
+
+## Literature Review
+
+The values and material objects that people give to each other in their marriage can encourage crime after or during divorce. This situation affects different to the young generation and old generation. Several hypotheses are consistent with these results. First, spouses of older ex-prisoners may feel more invested in their incarcerated husband than those of younger ex-prisoners or may have fewer alternatives. Consequently, such spouses may have greater incentive to invest in their husband’s pro-social return from prison. Second, younger ex-prisoners are more likely to have younger spouses, who by virtue of their age are also more likely to engage in criminal activity. Thus, it is less likely that young spouses will have a prosocial influence on the returning prisoner. Finally, there is a possibility that younger respondents have a more fluid definition of a “like-married relationship” than older respondents and potentially, these relationship bonds are not as strong. [@visher:2009]
+
+In-prison programs that improve married relationships may benefit older ex-offenders' recidivism and substance use outcomes, whereas casual or unmarried relationships have little effect.Marriage’s effect on drug use was strongest for older ex-offenders (those over age 26), suggesting that committed relationships are more beneficial for those already in the process of aging out of crime. Moreover, higher quality partnerships were associated with lower odds of drug use. Former prisoners in casual, unmarried relationships experienced outcomes similar to those with no intimate partner. Overall, the findings suggest that in-prison programs that strengthen the quality of married relationships may improve recidivism and substance use outcomes after release. [@içli:1988]
+Drug addiction can have devastating consequences not only for the individual but also for society, as it can lead to a range of criminal behaviors and harms to oneself and others. Due to wrong decisions when people are under the influence of substance use; Behavioral disorders, provocation and aggression, and fraud, drug addicts can be involved in crimes such as armed and unarmed attacks, blackmail and threats, and murder in order to obtain the substance they use, can cause traffic accidents, sexual abuse can cause work accidents that can harm oneself and others. They may also commit crimes such as substance abuse during their imprisonment.[@altuner:2009]
+
+Marital status can be an effective factor on crime types. It has been observed that married individuals tend to commit crimes less than singles. However, separated or divorced individuals may be more likely to commit crimes. The effect of marital status on crime types may be more pronounced in certain crime categories such as sexual crimes. Those involved in crimes in this category are generally single or separated. However, there may not always be such a correlation, and each type of crime may be affected differently by marital status. For this reason, more than one factor should be taken into account in order to understand the causes of crime and to determine strategies to fight crime. This article was giving statistical data and consequences. According to the results of this research and writers,  have achieved these results:
+In crimes against the person, the number of people involved in the crime is higher, Those who are not related to the workplace commit more crimes against the person,
+The defendants whose father passed away committed more crimes,
+More crimes are committed against property for economic reasons,
+Crimes against public security are mostly committed for psychological reasons, Those who have committed the same crime before, continue to commit the same crime, Crimes against property are more common at young ages,
+It has been determined that more crimes against individuals are committed during the day. [@aytac:2007]
+
+
+
+\newpage
+# References {#references}
+<div id="refs"></div>
+
